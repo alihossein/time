@@ -1,0 +1,19 @@
+{
+    "name": "alihossein/time",
+    "description": "this is my test package",
+    "homepage": "https://alihossein.ir",
+    "keywords": ["laravel","package","laravel package","create laravel package"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "alihossein",
+            "email": "ali.shahabi68@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Alihossein\\Time\\": "src/"
+        }
+    },
+    "minimum-stability": "dev"
+}
